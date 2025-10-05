@@ -35,7 +35,7 @@ A **FastAPI-based backend** for fetching **India-focused news for competitive ex
 1. **Clone the repository:**
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/Vishwanathhatti/GyanWire-BE.git
 cd news-scraper-backend
 ```
 
