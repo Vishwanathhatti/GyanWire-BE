@@ -220,7 +220,3 @@ nltk.download('punkt')
 * Use **Celery** for more robust scheduling and async email sending.
 
 ---
-
-I can also **create a “Usage” section with example code for subscribing users and testing the API** to make it more developer-friendly.
-
-Do you want me to add that too?
